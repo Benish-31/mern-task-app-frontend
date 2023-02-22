@@ -1,1 +1,1 @@
-# mern-task-app-frontend
+# MERN Task App
